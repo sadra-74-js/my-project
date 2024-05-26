@@ -10,6 +10,3 @@ const getme = (token) => {
   return User;
 };
 
-const auth = (sign) => {
-  return user;
-}
