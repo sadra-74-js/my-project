@@ -6,7 +6,7 @@ const register = () => {
   return true;
 };
 
-const getme = (token) => {
+function getme(token) {
   return User;
-};
+}
 
