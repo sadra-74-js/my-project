@@ -11,5 +11,5 @@ function getme(token) {
 }
 
 const upload = () {
-
+  return true;
 }
