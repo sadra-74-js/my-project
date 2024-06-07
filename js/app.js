@@ -10,6 +10,6 @@ function getme(token) {
   return User;
 }
 
-const upload = (token) {
+function User () {
   return true;
 }
