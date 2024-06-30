@@ -13,3 +13,23 @@ function getme(token) {
 function User () {
   return true;
 }
+
+// ***
+
+const Login = (user) => {
+  if (user.name === "amin") {
+    return true;
+  }
+
+  return false;
+};
+
+const Register = (user) => {
+  return { user, token };
+};
+
+const getMe = (token) => {
+  return user;
+};
+
+// Auth
