@@ -32,4 +32,7 @@ const getMe = (token) => {
   return user;
 };
 
+function test () {
+  return true;
+}
 // Auth
