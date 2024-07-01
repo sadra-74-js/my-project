@@ -31,8 +31,8 @@ const Register = (user) => {
 const getMe = (token) => {
   return user;
 };
-
-function test () {
-  return true;
+ 
+const test = () => {
+  return false;
 }
 // Auth
